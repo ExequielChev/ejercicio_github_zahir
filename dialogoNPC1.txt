@@ -1,0 +1,23 @@
+Diálogo 1:
+
+NPC: "¡Hola! ¿Has visto las criaturas extrañas cerca del bosque?"
+
+Jugador: "No, no las he visto."
+
+NPC: "Espero que sigas con cuidado. El bosque puede ser peligroso."
+
+Diálogo 2:
+
+NPC: "He escuchado que hay un antiguo tesoro escondido en las montañas. Pero dicen que la maldición de los guardianes es muy peligrosa"
+
+Jugador: "¿De verdad?"
+
+NPC: "Suena aterrador, pero muchos lo han intentado. ¿Te atreverías a buscarlo?"
+
+Diálogo 3:
+
+NPC: "¿Tienes alguna experiencia luchando contra dragones?"
+
+Jugador: "Sí."
+
+NPC: "¡Entonces tal vez puedas ayudarme! Hay uno que ha estado aterrorizando las aldeas cercanas."
