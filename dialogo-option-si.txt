@@ -1,0 +1,3 @@
+NPC: "¡Excelente! Si tienes experiencia, necesitamos tu ayuda de inmediato."
+Jugador: "¿Qué debo hacer?"
+NPC: "Hay un dragón aterrador al norte. Necesitamos que lo derrotes antes de que destruya más aldeas."
