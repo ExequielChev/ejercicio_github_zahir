@@ -18,6 +18,4 @@ Diálogo 3:
 
 NPC: "¿Tienes alguna experiencia luchando contra dragones?"
 
-Jugador: "Sí."
-
-NPC: "¡Entonces tal vez puedas ayudarme! Hay uno que ha estado aterrorizando las aldeas cercanas."
+Jugador: 
