@@ -19,3 +19,5 @@ Diálogo 3:
 NPC: "¿Tienes alguna experiencia luchando contra dragones?"
 
 Jugador: 
+
+["dialogoNPC-NO"]
