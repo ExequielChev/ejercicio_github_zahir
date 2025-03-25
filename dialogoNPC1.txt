@@ -20,5 +20,5 @@ NPC: "¿Tienes alguna experiencia luchando contra dragones?"
 
 Jugador: NO
 
-["dialogoNPC-NO"]
+ [ "dialogoNPC-SI" , "dialogoNPC-NO" ]
 
