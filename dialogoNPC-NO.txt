@@ -1,0 +1,3 @@
+NPC: "Vaya, parece que no estás listo para enfrentarte al dragón. ¿Seguro que no quieres ayudar?"
+Jugador: "No, no puedo ahora mismo."
+NPC: "Entiendo, pero ten cuidado. Las aldeas aún necesitan protección."

@@ -18,7 +18,7 @@ Diálogo 3:
 
 NPC: "¿Tienes alguna experiencia luchando contra dragones?"
 
-Jugador: "Sí."
+Jugador: NO
 
-["dialogoNPC-SI"] 
+["dialogoNPC-NO"]
 
