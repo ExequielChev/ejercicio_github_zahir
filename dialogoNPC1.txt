@@ -20,4 +20,4 @@ NPC: "¿Tienes alguna experiencia luchando contra dragones?"
 
 Jugador: "Sí."
 
-["dialogoNPC-SI"]
+["dialogoNPC-SI"] 
